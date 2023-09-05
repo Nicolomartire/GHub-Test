@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_vne_final_github.88_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>88_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>A445816</sys_created_by>
+        <sys_created_on>2023-09-05 11:10:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd7a0e1a8705f1500d23edb83cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github.88_user</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_user_role_cd7a0e1a8705f1500d23edb83cbb353a</sys_update_name>
+        <sys_updated_by>A445816</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:10:34</sys_updated_on>
+    </sys_user_role>
+</record_update>

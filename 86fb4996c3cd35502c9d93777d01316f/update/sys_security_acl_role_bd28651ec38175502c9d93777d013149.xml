@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:40:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bd28651ec38175502c9d93777d013149</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github_5.x_vne_final_github.5_user</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_security_acl display_value="x_vne_final_github_5">a928651ec38175502c9d93777d013111</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bd28651ec38175502c9d93777d013149</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:40:41</sys_updated_on>
+        <sys_user_role display_value="x_vne_final_github.5_user" name="x_vne_final_github.5_user">4d2861d2c38175502c9d93777d013115</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
