@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:56:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5bcb2d12c3c175502c9d93777d01319a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github_boat.x_vne_final_github.boat_user</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_security_acl display_value="x_vne_final_github_boat">9bcb2d12c3c175502c9d93777d013187</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5bcb2d12c3c175502c9d93777d01319a</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:56:38</sys_updated_on>
+        <sys_user_role display_value="x_vne_final_github.boat_user" name="x_vne_final_github.boat_user">3ecba59ec38175502c9d93777d013141</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
