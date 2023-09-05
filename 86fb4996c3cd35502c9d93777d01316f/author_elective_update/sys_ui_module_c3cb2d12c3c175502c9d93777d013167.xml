@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="boat">36cb2d12c3c175502c9d93777d013162</application>
+        <filter/>
+        <name>boats</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_vne_final_github.boat_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:56:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3cb2d12c3c175502c9d93777d013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>boats</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_ui_module_c3cb2d12c3c175502c9d93777d013167</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:56:37</sys_updated_on>
+        <table>x_vne_final_github_boat</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</application>
+        <file_path/>
+        <instance_id>81a9ced1dbc2eb840b9d21c405961910</instance_id>
+        <instance_name>volvocesandbox</instance_name>
+        <name>sys_ui_module_c3cb2d12c3c175502c9d93777d013167</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="boat">36cb2d12c3c175502c9d93777d013162</application>
+        <filter/>
+        <name>boats</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_vne_final_github.boat_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:56:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3cb2d12c3c175502c9d93777d013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>boats</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_ui_module_c3cb2d12c3c175502c9d93777d013167</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:56:37</sys_updated_on>
+        <table>x_vne_final_github_boat</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>-1620823871</payload_hash>
+        <record_name>boats</record_name>
+        <reverted_from/>
+        <source>a5605256c38575502c9d93777d0131d9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:36:42</sys_created_on>
+        <sys_id>08709656c38575502c9d93777d013125</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a652167660000001</sys_recorded_at>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:36:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>04709656cc85755061214d89c8545625</update_guid>
+        <update_guid_history>04709656cc85755061214d89c8545625:0,569d421273857550e0112394240dade1:1747656264,d64182da4a057550bde3ceb9931d0495:0,012d6d9215c17550d173040bbbb0d07a:-946569390,9c2de9922ac17550a625f46dac8f58c9:0,cfcb2d1236c17550cd04c0b197ab866a:1483808038</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:38:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>23a1e72a2e7040a88ab387f8d7f40e09</sys_id>
+        <sys_metadata>c3cb2d12c3c175502c9d93777d013167</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>boats</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_scope_delete display_value="">9b84b72649824649ac67c6a6b7625661</sys_scope_delete>
+        <sys_update_name>sys_ui_module_c3cb2d12c3c175502c9d93777d013167</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_c3cb2d12c3c175502c9d93777d013167">08709656c38575502c9d93777d013125</sys_update_version>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:38:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

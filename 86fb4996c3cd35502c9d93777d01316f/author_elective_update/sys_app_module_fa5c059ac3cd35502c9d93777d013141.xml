@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_vne_uptime_initi_uptime_initiative</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=true^EQ</query>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 06:39:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa5c059ac3cd35502c9d93777d013141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_app_module_fa5c059ac3cd35502c9d93777d013141</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 06:39:15</sys_updated_on>
+        <timeline_page/>
+        <title>Open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</application>
+        <file_path/>
+        <instance_id>81a9ced1dbc2eb840b9d21c405961910</instance_id>
+        <instance_name>volvocesandbox</instance_name>
+        <name>sys_app_module_fa5c059ac3cd35502c9d93777d013141</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_vne_uptime_initi_uptime_initiative</name><order>3</order><override_menu_roles>false</override_menu_roles><query>active=true^EQ</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>A445972</sys_created_by><sys_created_on>2023-09-05 06:39:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fa5c059ac3cd35502c9d93777d013141</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope><sys_update_name>sys_app_module_fa5c059ac3cd35502c9d93777d013141</sys_update_name><sys_updated_by>A445972</sys_updated_by><sys_updated_on>2023-09-05 06:39:15</sys_updated_on><timeline_page/><title>Open</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-35357788</payload_hash>
+        <record_name>Open</record_name>
+        <reverted_from/>
+        <source>cad092d2c38575502c9d93777d013111</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:39:34</sys_created_on>
+        <sys_id>8e119e96c38575502c9d93777d013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a652407f30000001</sys_recorded_at>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:39:34</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4a119e96b78575507f469c5c2af92d66</update_guid>
+        <update_guid_history>4a119e96b78575507f469c5c2af92d66:0,a7601656cf857550738a24d9942fbcd8:0,36105a1627857550b1757e7f24614568:-1851784103,c40e0652178575508744a209d1f2e5f7:0,f65c059a0bcd355046c1a526021bed45:-1879850422</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2023-09-05 13:40:09">623196d6c38575502c9d93777d0131aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:40:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>463a98e963974f4697f774f3c8d6b9c9</sys_id>
+        <sys_metadata>fa5c059ac3cd35502c9d93777d013141</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_scope_delete display_value="">9b84b72649824649ac67c6a6b7625661</sys_scope_delete>
+        <sys_update_name>sys_app_module_fa5c059ac3cd35502c9d93777d013141</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fa5c059ac3cd35502c9d93777d013141">8e119e96c38575502c9d93777d013166</sys_update_version>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:40:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

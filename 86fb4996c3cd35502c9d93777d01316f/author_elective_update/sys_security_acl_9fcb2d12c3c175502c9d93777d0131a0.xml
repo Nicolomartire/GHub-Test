@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_vne_final_github_boat</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_vne_final_github_boat</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:56:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9fcb2d12c3c175502c9d93777d0131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github_boat</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_security_acl_9fcb2d12c3c175502c9d93777d0131a0</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:56:38</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</application>
+        <file_path/>
+        <instance_id>81a9ced1dbc2eb840b9d21c405961910</instance_id>
+        <instance_name>volvocesandbox</instance_name>
+        <name>sys_security_acl_9fcb2d12c3c175502c9d93777d0131a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_vne_final_github_boat</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_vne_final_github_boat</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:56:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9fcb2d12c3c175502c9d93777d0131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github_boat</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_update_name>sys_security_acl_9fcb2d12c3c175502c9d93777d0131a0</sys_update_name>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:56:38</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-1424982343</payload_hash>
+        <record_name>x_vne_final_github_boat</record_name>
+        <reverted_from/>
+        <source>a5605256c38575502c9d93777d0131d9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:36:41</sys_created_on>
+        <sys_id>33605656c38575502c9d93777d013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a652161df0000001</sys_recorded_at>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:36:41</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3f6056560c8575506d1449525ea45a86</update_guid>
+        <update_guid_history>3f6056560c8575506d1449525ea45a86:0,119d42129385755030b55f487cd48119:1917949331,ca4182da0605755081fdbd7f61f6c748:0,6d2dad925ac17550d317a87d9129391a:-1290588971,5bcb2d12e0c1755055ea578c7df0a6b2:2140687305</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 11:38:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>9e937c14258248caa4c95d7ddfc63f44</sys_id>
+        <sys_metadata>9fcb2d12c3c175502c9d93777d0131a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vne_final_github_boat</sys_name>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_parent display_value="">f260d256c38575502c9d93777d013159</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Final Github Test">86fb4996c3cd35502c9d93777d01316f</sys_scope>
+        <sys_scope_delete display_value="">9b84b72649824649ac67c6a6b7625661</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9fcb2d12c3c175502c9d93777d0131a0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9fcb2d12c3c175502c9d93777d0131a0">33605656c38575502c9d93777d013187</sys_update_version>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 11:38:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
