@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c3c8e578db233200e4c6fd651d9619e9" extends="cmdb_ci" label="Accessory" max_length="40" name="cmdb_ci_acc" type="collection">
-        <element label="2" max_length="40" name="x_vne_final_github_x_vne_final_github" type="audio"/>
-    </element>
-</database>
