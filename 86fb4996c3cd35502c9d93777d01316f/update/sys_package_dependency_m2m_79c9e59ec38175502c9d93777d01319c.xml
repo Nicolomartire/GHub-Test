@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">28b86d38db233200e4c6fd651d961992</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>A445972</sys_created_by>
+        <sys_created_on>2023-09-05 08:47:48</sys_created_on>
+        <sys_id>79c9e59ec38175502c9d93777d01319c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Final Github Test" source="x_vne_final_github">86fb4996c3cd35502c9d93777d01316f</sys_package>
+        <sys_updated_by>A445972</sys_updated_by>
+        <sys_updated_on>2023-09-05 08:47:48</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
